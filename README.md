@@ -1,9 +1,7 @@
 ## snippets
 
-##### A collection of useful snippets
+##### A collection of useful Svelte snippets
 
-I keep to structures (such as component, style) that I can reuse in this repository.
+- Dark/Light Theme
 
-- vue
-- svelte
-- css
+![dark and light theme](./assets/img/dark-light-theme.gif "dark and light theme")
